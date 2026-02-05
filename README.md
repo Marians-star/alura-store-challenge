@@ -11,6 +11,5 @@ Evaluar ingresos, ventas, reseñas y costos de envío usando Python, Pandas y Ma
 - Matplotlib
 
 ## Estructura
-- data/: archivos CSV
-- notebooks/: análisis
-- src/: funciones auxiliares
+- README.md
+- notebooks
